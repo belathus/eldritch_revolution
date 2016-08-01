@@ -1,0 +1,146 @@
+{
+  "timestamp": 0,
+  "uuid": "b7509be5-9660-4db4-b033-3e5caa404748",
+  "displayName": "Refine Evil",
+  "displayStack": "minecraft:stone 0",
+  "triggers": [
+    {
+      "conditions": [
+        {
+          "uuid": "0fbe8180-4f08-41c0-ba76-cddf2d62b845",
+          "type": "condition.ifHasXP",
+          "data": {
+            "amount": 10
+          }
+        },
+        {
+          "uuid": "014ba2d1-3863-4958-a371-56c610bd6af6",
+          "type": "condition.ininventory",
+          "data": {
+            "enum:slotType": "HELD",
+            "filters": [
+              {
+                "type": "filter.item.itemStack",
+                "data": {
+                  "stack": "abyssalcraft:shadowshard"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "2a4524f8-4a99-4e7c-96f8-59cdf61bc036",
+          "type": "condition.points",
+          "data": {
+            "variable": "evilcraft"
+          }
+        }
+      ],
+      "uuid": "7efc6cb3-afcf-408c-96f5-ed83d44033aa",
+      "type": "trigger.breakBlock",
+      "data": {
+        "filters": [
+          {
+            "type": "filter.block.blockStack",
+            "data": {
+              "stack": "evilcraft:darkPowerGemBlock 0"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "uuid": "9a5518e0-9ba5-40d8-84b2-ba64f4695226",
+      "type": "reward.clear",
+      "data": {
+        "filters": [
+          {
+            "type": "filter.item.itemStack",
+            "data": {
+              "stack": "abyssalcraft:shadowshard"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "12fae842-f15d-4093-8085-74b9b397184b",
+      "type": "reward.giveXP",
+      "data": {
+        "amount": -10
+      }
+    },
+    {
+      "uuid": "cd62d7fc-a560-4854-a67f-f710964c5170",
+      "type": "reward.item",
+      "data": {
+        "filters": [
+          {
+            "type": "filter.item.itemStack",
+            "data": {
+              "stack": "abyssalcraft:shadowgem"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "ea998ea7-ab28-4e00-9606-90db871e1855",
+      "type": "reward.spawnItem",
+      "data": {
+        "locations": [
+          {
+            "type": "filter.location.playerPos",
+            "data": {
+              "randomX": 3,
+              "randomY": 1,
+              "randomZ": 3
+            }
+          }
+        ],
+        "stackSizeMin": 8,
+        "stackSizeMax": 32,
+        "filters": [
+          {
+            "type": "filter.item.itemStack",
+            "data": {
+              "stack": "abyssalcraft:shadowfragment"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "56d7dc8e-f07c-48ee-9645-631c1458b5e9",
+      "type": "reward.placeBlock",
+      "data": {
+        "locations": [
+          {
+            "type": "filter.location.playerBroken",
+            "data": {}
+          }
+        ],
+        "filters": [
+          {
+            "type": "filter.block.blockStack",
+            "data": {
+              "stack": "minecraft:obsidian"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "repeatable": 1,
+  "infinite": true,
+  "tasksRequired": 1,
+  "allTasks": true,
+  "x": 334,
+  "y": 206,
+  "isVisible": true,
+  "displayAchievement": true,
+  "rewardsGiven": 1,
+  "allRewards": true
+}

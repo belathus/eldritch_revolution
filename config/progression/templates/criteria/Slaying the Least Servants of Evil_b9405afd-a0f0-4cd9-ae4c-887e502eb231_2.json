@@ -1,0 +1,41 @@
+{
+  "timestamp": 0,
+  "uuid": "b9405afd-a0f0-4cd9-ae4c-887e502eb231",
+  "displayName": "Slaying the Least Servants of Evil",
+  "displayStack": "minecraft:stone 0",
+  "triggers": [
+    {
+      "uuid": "7409afd6-5886-4f22-bb47-1efe4b65de76",
+      "type": "trigger.kill",
+      "data": {
+        "entities": [
+          {
+            "type": "filter.entity.entitytype",
+            "data": {
+              "enum:type": "MONSTER"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "uuid": "b87825c8-f8cf-41d3-b6cc-f61e73a47dfc",
+      "type": "reward.points",
+      "data": {
+        "variable": "dominion"
+      }
+    }
+  ],
+  "repeatable": 1,
+  "infinite": false,
+  "tasksRequired": 1,
+  "allTasks": true,
+  "x": 103,
+  "y": 6,
+  "isVisible": true,
+  "displayAchievement": true,
+  "rewardsGiven": 1,
+  "allRewards": true
+}

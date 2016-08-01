@@ -1,0 +1,64 @@
+{
+  "timestamp": 0,
+  "uuid": "442a2abd-d6e2-4bfb-9953-69b68bab6d2a",
+  "displayName": "First Seal",
+  "displayStack": "minecraft:stone 0",
+  "triggers": [
+    {
+      "conditions": [
+        {
+          "uuid": "d6d6917b-ba43-437c-96b9-df208a8f0a8b",
+          "type": "condition.points",
+          "data": {
+            "variable": "doom"
+          }
+        },
+        {
+          "uuid": "746142ea-98bd-428a-826e-92efd5a24abe",
+          "type": "condition.chance",
+          "data": {
+            "chance": 10.0
+          }
+        }
+      ],
+      "uuid": "9281d8da-6405-473b-b83f-f3005495d831",
+      "type": "trigger.sleep",
+      "data": {}
+    }
+  ],
+  "rewards": [
+    {
+      "uuid": "74cc342a-6af5-4d44-bfe0-e16cade1bf04",
+      "type": "reward.potioneffect",
+      "data": {
+        "targets": [
+          {
+            "type": "filter.entity.entitytype",
+            "data": {
+              "enum:type": "PLAYER"
+            }
+          }
+        ],
+        "duration": 20,
+        "filters": [
+          {
+            "type": "filter.potioneffect.potioneffect",
+            "data": {
+              "effectID": 17
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "repeatable": 1,
+  "infinite": true,
+  "tasksRequired": 1,
+  "allTasks": true,
+  "x": 205,
+  "y": 65,
+  "isVisible": true,
+  "displayAchievement": true,
+  "rewardsGiven": 1,
+  "allRewards": true
+}

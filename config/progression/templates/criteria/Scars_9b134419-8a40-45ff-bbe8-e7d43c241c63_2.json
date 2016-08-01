@@ -1,0 +1,140 @@
+{
+  "timestamp": 0,
+  "uuid": "9b134419-8a40-45ff-bbe8-e7d43c241c63",
+  "displayName": "Scars",
+  "displayStack": "evilcraft:condensedBlood",
+  "triggers": [
+    {
+      "conditions": [
+        {
+          "uuid": "104239e2-b866-4a52-afe3-e2390fbebbbf",
+          "type": "condition.potioneffect",
+          "data": {
+            "lessThanFalse": 0,
+            "filters": [
+              {
+                "type": "filter.potioneffect.potioneffect",
+                "data": {}
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "1cfc83c4-6fde-4bd6-952f-85e3b5160901",
+          "type": "condition.potioneffect",
+          "data": {
+            "lessThanFalse": 0,
+            "filters": [
+              {
+                "type": "filter.potioneffect.potioneffect",
+                "data": {
+                  "effectID": 5
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "uuid": "2e48677e-9715-4c96-b1a8-88d94fc5a76e",
+      "type": "trigger.kill",
+      "data": {
+        "entities": [
+          {
+            "type": "filter.entity.entitytype",
+            "data": {
+              "enum:type": "MONSTER"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "conditions": [
+        {
+          "uuid": "c43c475c-662c-4f8b-8798-08370de604d6",
+          "type": "condition.chance",
+          "data": {
+            "chance": 15.0
+          }
+        },
+        {
+          "uuid": "01afae10-9f00-43c4-8d20-752c067fda07",
+          "type": "condition.potioneffect",
+          "data": {
+            "filters": [
+              {
+                "type": "filter.potioneffect.potioneffect",
+                "data": {
+                  "effectID": 5
+                }
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "d04220e1-b74e-4f34-a0c6-aa030f4a13b4",
+          "type": "condition.potioneffect",
+          "data": {
+            "filters": [
+              {
+                "type": "filter.potioneffect.potioneffect",
+                "data": {}
+              }
+            ]
+          }
+        }
+      ],
+      "uuid": "5c01a8ed-28eb-4a95-938a-436fdc9ca232",
+      "type": "trigger.attack",
+      "data": {
+        "entities": [
+          {
+            "type": "filter.entity.entitytype",
+            "data": {
+              "enum:type": "MONSTER"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "uuid": "8732366c-0775-4b4f-b97a-578832384629",
+      "type": "reward.potioneffect",
+      "data": {
+        "targets": [
+          {
+            "type": "filter.entity.entitytype",
+            "data": {
+              "enum:type": "PLAYER"
+            }
+          }
+        ],
+        "duration": 300,
+        "amplifier": 2,
+        "filters": [
+          {
+            "type": "filter.potioneffect.potioneffect",
+            "data": {
+              "effectID": 22
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "prereqs": [
+    "f7fc6613-6877-4483-b4fb-063cb15a83af"
+  ],
+  "repeatable": 1,
+  "infinite": true,
+  "tasksRequired": 1,
+  "allTasks": true,
+  "x": 790,
+  "y": 3,
+  "isVisible": true,
+  "displayAchievement": true,
+  "rewardsGiven": 1,
+  "allRewards": true
+}

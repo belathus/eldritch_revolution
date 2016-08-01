@@ -1,0 +1,86 @@
+{
+  "timestamp": 0,
+  "uuid": "ffd668ce-2109-4701-a419-063cd43366f0",
+  "displayName": "Dictum Thaumcraft!",
+  "displayStack": "minecraft:stone 0",
+  "triggers": [
+    {
+      "conditions": [
+        {
+          "uuid": "3332ca22-c836-4bac-8695-a7da46362bd3",
+          "type": "condition.points",
+          "data": {
+            "variable": "dominion"
+          }
+        }
+      ],
+      "uuid": "6db529c0-b4cc-473c-b23b-3f4aaeb9913b",
+      "type": "trigger.chat",
+      "data": {
+        "toMatch": "Dictum Thaumcraft!"
+      }
+    },
+    {
+      "uuid": "881360fa-ff7e-4a47-be35-192c3b09365d",
+      "type": "trigger.points",
+      "data": {
+        "variable": "dominion"
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "uuid": "0f3d1cdc-eeb3-435e-bd27-73d1c27b9cc3",
+      "type": "reward.item",
+      "data": {
+        "filters": [
+          {
+            "type": "filter.item.itemStack",
+            "data": {
+              "stack": "thaumcraft:thaumonomicon 0"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "eae378f0-955f-49b4-b8da-155c9efb153a",
+      "type": "reward.crafting",
+      "data": {
+        "actionfilters": [
+          {
+            "type": "filter.crafting.exact",
+            "data": {}
+          }
+        ],
+        "filters": [
+          {
+            "type": "filter.item.itemOnly",
+            "data": {
+              "item:domain": "thaumcraft",
+              "item:path": "wand_cap"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "14ab080f-9a76-473e-9ec9-a89d4eb713b9",
+      "type": "reward.points",
+      "data": {
+        "variable": "dominion",
+        "amount": -1
+      }
+    }
+  ],
+  "repeatable": 1,
+  "infinite": false,
+  "tasksRequired": 1,
+  "allTasks": true,
+  "x": 92,
+  "y": 3,
+  "isVisible": true,
+  "displayAchievement": true,
+  "rewardsGiven": 1,
+  "allRewards": true
+}

@@ -1,0 +1,108 @@
+{
+  "timestamp": 0,
+  "uuid": "d75db558-145f-45a0-8b3a-26b21fcfea92",
+  "displayName": "Ectoplasmic Renewal",
+  "displayStack": "minecraft:stone 0",
+  "triggers": [
+    {
+      "conditions": [
+        {
+          "uuid": "6ed8fc9e-76bc-498a-8551-61b2631031b1",
+          "type": "condition.ininventory",
+          "data": {
+            "enum:slotType": "HELD",
+            "filters": [
+              {
+                "type": "filter.item.itemStack",
+                "data": {
+                  "stack": "randomthings:ingredient 2"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "767c1e3c-fbc0-4a4d-956b-974abb1a3641",
+          "type": "condition.points",
+          "data": {
+            "variable": "intangible"
+          }
+        },
+        {
+          "uuid": "2b736236-687a-4e73-9cb7-67edff2eaf07",
+          "type": "condition.points",
+          "data": {
+            "variable": "spiritualism"
+          }
+        },
+        {
+          "uuid": "d209138d-eda5-4ff2-803b-22c39d3ece7d",
+          "type": "condition.points",
+          "data": {
+            "variable": "knowledgeofthedead"
+          }
+        }
+      ],
+      "uuid": "3e2d9d12-69b4-4a1b-9bb0-0886152960e5",
+      "type": "trigger.clickBlock",
+      "data": {
+        "filters": [
+          {
+            "type": "filter.block.blockStack",
+            "data": {
+              "stack": "minecraft:enchanting_table"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "uuid": "99d65d4e-a81f-4232-b084-7a0304dacb88",
+      "type": "reward.potioneffect",
+      "data": {
+        "targets": [
+          {
+            "type": "filter.entity.entitytype",
+            "data": {
+              "enum:type": "PLAYER"
+            }
+          }
+        ],
+        "duration": 2000,
+        "amplifier": 1,
+        "filters": [
+          {
+            "type": "filter.potioneffect.potioneffect",
+            "data": {
+              "effectID": 10
+            }
+          },
+          {
+            "type": "filter.potioneffect.potioneffect",
+            "data": {
+              "effectID": 22
+            }
+          },
+          {
+            "type": "filter.potioneffect.potioneffect",
+            "data": {
+              "effectID": 48
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "repeatable": 1,
+  "infinite": true,
+  "tasksRequired": 1,
+  "allTasks": true,
+  "x": 682,
+  "y": 137,
+  "isVisible": true,
+  "displayAchievement": true,
+  "rewardsGiven": 1,
+  "allRewards": false
+}
