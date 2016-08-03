@@ -17240,7 +17240,7 @@
                   {
                     "type": "filter.item.itemStack",
                     "data": {
-                      "stack": "thaumcraft:shard 3"
+                      "stack": "thaumcraft:sanity_soap"
                     }
                   }
                 ]
@@ -17274,8 +17274,8 @@
           "infinite": true,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 401,
-          "y": 182,
+          "x": 405,
+          "y": 125,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -17297,22 +17297,7 @@
                       {
                         "type": "filter.item.itemStack",
                         "data": {
-                          "stack": "grimoireofgaia:item.GrimoireOfGaia.BoxIron",
-                          "matchDamage": false
-                        }
-                      },
-                      {
-                        "type": "filter.item.itemStack",
-                        "data": {
-                          "stack": "grimoireofgaia:item.GrimoireOfGaia.BoxGold",
-                          "matchDamage": false
-                        }
-                      },
-                      {
-                        "type": "filter.item.itemStack",
-                        "data": {
-                          "stack": "grimoireofgaia:item.GrimoireOfGaia.BoxDiamond",
-                          "matchDamage": false
+                          "stack": "grimoireofgaia:item.GrimoireOfGaia.BoxIron"
                         }
                       }
                     ]
@@ -17340,22 +17325,7 @@
                   {
                     "type": "filter.item.itemStack",
                     "data": {
-                      "stack": "grimoireofgaia:item.GrimoireOfGaia.BoxIron",
-                      "matchDamage": false
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "grimoireofgaia:item.GrimoireOfGaia.BoxGold",
-                      "matchDamage": false
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "grimoireofgaia:item.GrimoireOfGaia.BoxDiamond",
-                      "matchDamage": false
+                      "stack": "grimoireofgaia:item.GrimoireOfGaia.BoxIron"
                     }
                   }
                 ]
@@ -17380,8 +17350,8 @@
           "infinite": true,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 295,
-          "y": 182,
+          "x": 299,
+          "y": 125,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -17472,8 +17442,8 @@
           "infinite": true,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 509,
-          "y": 182,
+          "x": 512,
+          "y": 125,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -17777,8 +17747,8 @@
           "infinite": true,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 295,
-          "y": 127,
+          "x": 299,
+          "y": 98,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 2,
@@ -17985,8 +17955,8 @@
           "infinite": true,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 372,
-          "y": 127,
+          "x": 376,
+          "y": 98,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -18229,8 +18199,8 @@
           "infinite": true,
           "tasksRequired": 1,
           "allTasks": false,
-          "x": 464,
-          "y": 127,
+          "x": 468,
+          "y": 98,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -18641,8 +18611,8 @@
           "infinite": true,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 388,
-          "y": 72,
+          "x": 392,
+          "y": 71,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -18785,8 +18755,8 @@
           "infinite": true,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 499,
-          "y": 72,
+          "x": 502,
+          "y": 71,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -18896,8 +18866,8 @@
           "infinite": true,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 648,
-          "y": 70,
+          "x": 299,
+          "y": 152,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -19201,8 +19171,8 @@
           "infinite": true,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 1653,
-          "y": 22,
+          "x": 1312,
+          "y": 59,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -19235,8 +19205,8 @@
           "infinite": true,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 1712,
-          "y": 144,
+          "x": 1262,
+          "y": 194,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -19269,8 +19239,8 @@
           "infinite": true,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 1635,
-          "y": 177,
+          "x": 1282,
+          "y": 166,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -19304,8 +19274,8 @@
           "infinite": true,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 1676,
-          "y": 70,
+          "x": 1301,
+          "y": 7,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -19338,8 +19308,8 @@
           "infinite": true,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 1675,
-          "y": 115,
+          "x": 1269,
+          "y": 32,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -19373,8 +19343,8 @@
           "infinite": true,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 1678,
-          "y": 208,
+          "x": 1270,
+          "y": 134,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -19408,8 +19378,8 @@
           "infinite": true,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 1592,
-          "y": 50,
+          "x": 1303,
+          "y": 101,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -19443,8 +19413,8 @@
           "infinite": true,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 1747,
-          "y": 46,
+          "x": 1345,
+          "y": 138,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -19888,8 +19858,8 @@
           "infinite": true,
           "tasksRequired": 1,
           "allTasks": false,
-          "x": 295,
-          "y": 72,
+          "x": 299,
+          "y": 71,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -20402,8 +20372,8 @@
           "infinite": false,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 1064,
-          "y": 59,
+          "x": 654,
+          "y": 58,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -20463,8 +20433,8 @@
           "infinite": false,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 1064,
-          "y": 113,
+          "x": 653,
+          "y": 112,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -20524,8 +20494,8 @@
           "infinite": false,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 1064,
-          "y": 86,
+          "x": 653,
+          "y": 85,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -20534,7 +20504,7 @@
         {
           "timestamp": 0,
           "uuid": "9d75344d-b78b-4c7b-960f-19412b7727b9",
-          "displayName": "Aura Forged Edge",
+          "displayName": "Aura Forged Armory",
           "displayStack": "aura:angelsteelSword0 0 {aura:6}",
           "triggers": [
             {
@@ -20591,8 +20561,8 @@
           "infinite": false,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 1064,
-          "y": 32,
+          "x": 654,
+          "y": 31,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -20680,8 +20650,8 @@
           "infinite": false,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 1064,
-          "y": 5,
+          "x": 654,
+          "y": 4,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -20766,8 +20736,8 @@
           "infinite": false,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 1123,
-          "y": 186,
+          "x": 709,
+          "y": 189,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -20821,8 +20791,8 @@
           "infinite": false,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 1182,
-          "y": 86,
+          "x": 774,
+          "y": 85,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -20882,8 +20852,8 @@
           "infinite": false,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 1181,
-          "y": 114,
+          "x": 774,
+          "y": 112,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -20954,8 +20924,8 @@
           "infinite": false,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 1182,
-          "y": 59,
+          "x": 775,
+          "y": 58,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -21009,8 +20979,8 @@
           "infinite": false,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 1182,
-          "y": 5,
+          "x": 774,
+          "y": 3,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -21101,8 +21071,8 @@
           "infinite": false,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 1295,
-          "y": 32,
+          "x": 892,
+          "y": 3,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -21216,7 +21186,7 @@
           "infinite": false,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 1298,
+          "x": 893,
           "y": 114,
           "isVisible": true,
           "displayAchievement": true,
@@ -21269,8 +21239,8 @@
           "infinite": false,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 1295,
-          "y": 59,
+          "x": 892,
+          "y": 57,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -21424,8 +21394,8 @@
           "infinite": false,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 1298,
-          "y": 140,
+          "x": 893,
+          "y": 30,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -21479,1362 +21449,8 @@
           "infinite": false,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 1064,
-          "y": 141,
-          "isVisible": true,
-          "displayAchievement": true,
-          "rewardsGiven": 1,
-          "allRewards": true
-        },
-        {
-          "timestamp": 0,
-          "uuid": "860c7260-497d-466d-846e-be690730ce96",
-          "displayName": "Bracelets and Bindings",
-          "displayStack": "thaumicbases:castingBracelet 0",
-          "triggers": [
-            {
-              "conditions": [
-                {
-                  "uuid": "28d54c64-195e-456f-954c-b9ec53eb5b98",
-                  "type": "condition.ininventory",
-                  "data": {
-                    "filters": [
-                      {
-                        "type": "filter.item.itemStack",
-                        "data": {
-                          "stack": "thaumcraft:focus_fire"
-                        }
-                      },
-                      {
-                        "type": "filter.item.itemStack",
-                        "data": {
-                          "stack": "thaumcraft:focus_shock"
-                        }
-                      },
-                      {
-                        "type": "filter.item.itemStack",
-                        "data": {
-                          "stack": "thaumcraft:focus_frost"
-                        }
-                      },
-                      {
-                        "type": "filter.item.itemStack",
-                        "data": {
-                          "stack": "thaumcraft:focus_pech"
-                        }
-                      },
-                      {
-                        "type": "filter.item.itemStack",
-                        "data": {
-                          "stack": "thaumcraft:focus_primal"
-                        }
-                      },
-                      {
-                        "type": "filter.item.itemStack",
-                        "data": {
-                          "stack": "thaumcraft:focus_shard"
-                        }
-                      }
-                    ]
-                  }
-                },
-                {
-                  "uuid": "4e135f44-dd05-467e-9534-bf5f2941abf0",
-                  "type": "condition.ininventory",
-                  "data": {
-                    "filters": [
-                      {
-                        "type": "filter.item.itemStack",
-                        "data": {
-                          "stack": "thaumcraft:focus_excavation"
-                        }
-                      },
-                      {
-                        "type": "filter.item.itemStack",
-                        "data": {
-                          "stack": "thaumcraft:focus_equal_trade"
-                        }
-                      },
-                      {
-                        "type": "filter.item.itemStack",
-                        "data": {
-                          "stack": "thaumcraft:focus_hole"
-                        }
-                      },
-                      {
-                        "type": "filter.item.itemStack",
-                        "data": {
-                          "stack": "thaumcraft:focus_hellbat"
-                        }
-                      },
-                      {
-                        "type": "filter.item.itemStack",
-                        "data": {
-                          "stack": "thaumcraft:focus_grapple"
-                        }
-                      }
-                    ]
-                  }
-                }
-              ],
-              "uuid": "352603be-4bf8-4f98-a890-40dd39a3992b",
-              "type": "trigger.openContainer",
-              "data": {}
-            }
-          ],
-          "rewards": [
-            {
-              "uuid": "d49aef0f-ed6b-40f4-981c-1645cc7c6023",
-              "type": "reward.item",
-              "data": {
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumicbases:castingBracelet 6"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumicbases:castingBracelet 7"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumicbases:castingBracelet 8"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumicbases:castingBracelet 9"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumicbases:castingBracelet 10"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumicbases:castingBracelet 11"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "uuid": "4274e999-3a35-41c7-b19b-8ec0067c8c09",
-              "type": "reward.item",
-              "data": {
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumicbases:castingBracelet 3"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumicbases:castingBracelet 4"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumicbases:castingBracelet 1"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumicbases:resource 3"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "schoolsmagic:WandCores 3"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "schoolsmagic:WandCores 5"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumcraft:primal_charm 0"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "uuid": "4086004b-41bb-4e80-92ba-6cfd3e8a9e37",
-              "type": "reward.item",
-              "data": {
-                "stackSizeMin": 2,
-                "stackSizeMax": 2,
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumcraft:wand_cap 1"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumcraft:wand_cap 2"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumcraft:wand_cap 4"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "acintegration:wandcap 0"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "acintegration:wandcap 1"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "evilcraft:bloodWandCap"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumicbases:resource 2"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "schoolsmagic:WandCaps 0"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "schoolsmagic:WandCaps 2"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "schoolsmagic:WandCaps 4"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "schoolsmagic:WandCaps 5"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "uuid": "6473560c-4872-4da7-ad00-f6e4bbabd1c5",
-              "type": "reward.item",
-              "data": {
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumcraft:focus_hellbat"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumcraft:focus_pech"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumcraft:focus_shard"
-                    }
-                  }
-                ]
-              }
-            }
-          ],
-          "prereqs": [
-            "0dcec1b7-78eb-497c-865e-bbd6c2eb58f3"
-          ],
-          "repeatable": 1,
-          "infinite": false,
-          "tasksRequired": 1,
-          "allTasks": true,
-          "x": 312,
-          "y": 209,
-          "isVisible": true,
-          "displayAchievement": true,
-          "rewardsGiven": 2,
-          "allRewards": false
-        },
-        {
-          "timestamp": 0,
-          "uuid": "c8d8a5aa-2e8c-4414-84cc-5c8cb0905680",
-          "displayName": "So Many Altars",
-          "displayStack": "bloodmagic:BlockIncenseAltar",
-          "triggers": [
-            {
-              "uuid": "fbb709b7-cf14-4c25-9806-23d3cb428cba",
-              "type": "trigger.clickBlock",
-              "data": {
-                "filters": [
-                  {
-                    "type": "filter.block.blockStack",
-                    "data": {
-                      "stack": "bloodmagic:BlockIncenseAltar"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "conditions": [
-                {
-                  "uuid": "168e7c70-d858-4a93-9878-bd519dd7220e",
-                  "type": "condition.ininventory",
-                  "data": {
-                    "filters": [
-                      {
-                        "type": "filter.item.itemStack",
-                        "data": {
-                          "stack": "bloodmagic:BlockIncenseAltar"
-                        }
-                      }
-                    ]
-                  }
-                }
-              ],
-              "uuid": "aca7b93e-767b-4f0c-bf2f-2cc51c77b39c",
-              "type": "trigger.openContainer",
-              "data": {}
-            }
-          ],
-          "rewards": [
-            {
-              "uuid": "2a049807-3980-4ee6-bb59-603fcc306833",
-              "type": "reward.item",
-              "data": {
-                "stackSizeMin": 45,
-                "stackSizeMax": 45,
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "bloodmagic:BlockPath 0"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "bloodmagic:BlockPath 1"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "bloodmagic:BlockPath 2"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "bloodmagic:BlockPath 3"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "bloodmagic:BlockPath 4"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "bloodmagic:BlockPath 5"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "bloodmagic:BlockPath 6"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "bloodmagic:BlockPath 7"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "uuid": "307696aa-8ec7-476a-ae86-6f8bccf2491b",
-              "type": "reward.item",
-              "data": {
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "bloodmagic:BlockDemonCrystal 0"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "bloodmagic:ItemDaggerOfSacrifice"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "bloodmagic:ItemBloodOrb 1 {}"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "bloodmagic:ItemPackSelfSacrifice 0 {}"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "evilcraft:darkTank {darkTank:{FluidName:\"lifeessence\",Amount:16000},tankCapacity:16000}"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "uuid": "746f692b-0023-4c40-a380-51ddfb48eb99",
-              "type": "reward.item",
-              "data": {
-                "stackSizeMax": 5,
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "bloodmagic:ItemComponent 8"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "evilcraft:darkTank {darkTank:{FluidName:\"evilcraftblood\",Amount:16000},tankCapacity:16000}"
-                    }
-                  }
-                ]
-              }
-            }
-          ],
-          "prereqs": [
-            "e479a339-e001-410e-ab2e-6c2bfa9f93f2"
-          ],
-          "repeatable": 1,
-          "infinite": false,
-          "tasksRequired": 1,
-          "allTasks": false,
-          "x": 312,
-          "y": 99,
-          "isVisible": true,
-          "displayAchievement": true,
-          "rewardsGiven": 2,
-          "allRewards": false
-        },
-        {
-          "timestamp": 0,
-          "uuid": "09a16bc9-3dab-4a33-ba10-5e27ddd39aee",
-          "displayName": "Derived from Plants",
-          "displayStack": "botania:brewery",
-          "triggers": [
-            {
-              "uuid": "7399e9f8-b76c-4f6c-b610-1ac1fdf4f1e6",
-              "type": "trigger.clickBlock",
-              "data": {
-                "filters": [
-                  {
-                    "type": "filter.block.blockStack",
-                    "data": {
-                      "stack": "botania:brewery"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "conditions": [
-                {
-                  "uuid": "4b880782-81da-464c-b9e2-9e54a8f2e4e6",
-                  "type": "condition.ininventory",
-                  "data": {
-                    "filters": [
-                      {
-                        "type": "filter.item.itemStack",
-                        "data": {
-                          "stack": "botania:brewery"
-                        }
-                      }
-                    ]
-                  }
-                }
-              ],
-              "uuid": "5b0ff7e7-6fc1-4613-8a52-52c307d26c39",
-              "type": "trigger.openContainer",
-              "data": {}
-            }
-          ],
-          "rewards": [
-            {
-              "uuid": "f93ee79e-8af6-4a12-a7a4-1989d521eb11",
-              "type": "reward.item",
-              "data": {
-                "stackSizeMin": 2,
-                "stackSizeMax": 3,
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "botania:bloodPendant {}",
-                      "matchNBT": true
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "botania:incenseStick {}"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "uuid": "7753a46e-c24c-450f-99f1-9a64239865ab",
-              "type": "reward.item",
-              "data": {
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "botania:bloodPendant {brewKey:\"speed\"}"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "uuid": "30cbbc6b-7b6f-4563-b7e5-f726cb1ee611",
-              "type": "reward.item",
-              "data": {
-                "stackSizeMax": 3,
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "botania:incenseStick {brewKey:\"speed\"}"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "uuid": "d7a89b57-5b45-462c-b4cc-daf8cf8136e3",
-              "type": "reward.item",
-              "data": {
-                "stackSizeMin": 4,
-                "stackSizeMax": 12,
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "botania:vial 1"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "uuid": "d2e6980f-fe6e-40ab-8f38-7f043bdc4b8a",
-              "type": "reward.item",
-              "data": {
-                "stackSizeMax": 3,
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "botania:brewFlask 0 {brewKey:\"speed\"}"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "uuid": "274e0da2-48d8-4531-86a7-8be3813eb9a3",
-              "type": "reward.item",
-              "data": {
-                "stackSizeMin": 3,
-                "stackSizeMax": 6,
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "botania:brewVial 0 {brewKey:\"speed\"}"
-                    }
-                  }
-                ]
-              }
-            }
-          ],
-          "prereqs": [
-            "a0ac088d-5f76-4bf9-b6a3-12c414bdcc58"
-          ],
-          "repeatable": 1,
-          "infinite": false,
-          "tasksRequired": 1,
-          "allTasks": false,
-          "x": 312,
-          "y": 154,
-          "isVisible": true,
-          "displayAchievement": true,
-          "rewardsGiven": 3,
-          "allRewards": false
-        },
-        {
-          "timestamp": 0,
-          "uuid": "dfce52c9-ca90-4441-9ba7-a8ebdcc4d9a6",
-          "displayName": "Advanced Glasswork",
-          "displayStack": "intangible:funnel",
-          "triggers": [
-            {
-              "conditions": [
-                {
-                  "uuid": "14f0d44d-5dbf-4078-a6c0-492a177b9554",
-                  "type": "condition.ininventory",
-                  "data": {
-                    "filters": [
-                      {
-                        "type": "filter.item.itemStack",
-                        "data": {
-                          "stack": "intangible:bellows"
-                        }
-                      }
-                    ]
-                  }
-                },
-                {
-                  "uuid": "5f0d1a93-345b-4171-98c4-353b69b83d6f",
-                  "type": "condition.ininventory",
-                  "data": {
-                    "filters": [
-                      {
-                        "type": "filter.item.itemStack",
-                        "data": {
-                          "stack": "intangible:bucketmoltencrystalblue"
-                        }
-                      }
-                    ]
-                  }
-                },
-                {
-                  "uuid": "a2dab3ce-319e-4a61-9409-ddd0100c616e",
-                  "type": "condition.ininventory",
-                  "data": {
-                    "filters": [
-                      {
-                        "type": "filter.item.itemStack",
-                        "data": {
-                          "stack": "intangible:blowmold"
-                        }
-                      }
-                    ]
-                  }
-                }
-              ],
-              "uuid": "6a31f30e-c9d1-4142-93ef-6704f1f77393",
-              "type": "trigger.openContainer",
-              "data": {}
-            },
-            {
-              "conditions": [
-                {
-                  "uuid": "4ad347b8-b3ff-45e0-a004-59e74d1b5d2e",
-                  "type": "condition.ininventory",
-                  "data": {
-                    "filters": [
-                      {
-                        "type": "filter.item.itemStack",
-                        "data": {
-                          "stack": "intangible:bucketmoltencrystalblue"
-                        }
-                      }
-                    ]
-                  }
-                }
-              ],
-              "uuid": "83683714-a9e3-40ee-b813-1b178f989f54",
-              "type": "trigger.clickBlock",
-              "data": {
-                "filters": [
-                  {
-                    "type": "filter.block.blockStack",
-                    "data": {
-                      "stack": "intangible:blowmold"
-                    }
-                  }
-                ]
-              }
-            }
-          ],
-          "rewards": [
-            {
-              "uuid": "039808e4-3fca-44a8-8155-81573ab8c909",
-              "type": "reward.item",
-              "data": {
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "evilcraft:darkTank {darkTank:{FluidName:\"intangible:moltencrystalblue\",Amount:16000},tankCapacity:16000}"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "uuid": "52a4ec42-0316-4185-8fac-64864839976b",
-              "type": "reward.item",
-              "data": {
-                "stackSizeMax": 32,
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "intangible:crystal"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "uuid": "b40b0168-4fb2-4814-b79b-c6e3ce7f8bbd",
-              "type": "reward.item",
-              "data": {
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "evilcraft:darkTank {darkTank:{FluidName:\"lava\",Amount:16000},tankCapacity:16000}"
-                    }
-                  }
-                ]
-              }
-            }
-          ],
-          "prereqs": [
-            "79174c25-5f1e-4501-9bd8-2b3f216854a3"
-          ],
-          "repeatable": 1,
-          "infinite": false,
-          "tasksRequired": 1,
-          "allTasks": false,
-          "x": 666,
-          "y": 98,
-          "isVisible": true,
-          "displayAchievement": true,
-          "rewardsGiven": 2,
-          "allRewards": false
-        },
-        {
-          "timestamp": 0,
-          "uuid": "5f037faa-ee05-454a-8f52-7562db643a12",
-          "displayName": "Soul Solutions",
-          "displayStack": "minecraft:mob_spawner",
-          "triggers": [
-            {
-              "conditions": [
-                {
-                  "uuid": "9069b7b7-f2a5-4939-99b6-3a6b79a4d448",
-                  "type": "condition.points",
-                  "data": {
-                    "variable": "intangible",
-                    "amount": 2.0
-                  }
-                },
-                {
-                  "uuid": "51957f92-d30e-4bca-bffb-756fd27fefea",
-                  "type": "condition.chance",
-                  "data": {
-                    "chance": 20.0
-                  }
-                }
-              ],
-              "uuid": "b7a8a69d-8ae8-442f-8cf7-ef124e4242e3",
-              "type": "trigger.breakBlock",
-              "data": {
-                "filters": [
-                  {
-                    "type": "filter.block.blockStack",
-                    "data": {
-                      "stack": "minecraft:mob_spawner",
-                      "matchState": false
-                    }
-                  }
-                ]
-              }
-            }
-          ],
-          "rewards": [
-            {
-              "uuid": "6c637d0a-0bfe-41c4-983d-237d3916e11b",
-              "type": "reward.spawnItem",
-              "data": {
-                "locations": [
-                  {
-                    "type": "filter.location.playerBroken",
-                    "data": {}
-                  }
-                ],
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "minecraft:mob_spawner"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "uuid": "abafb4da-f290-4c15-9b1a-6824162db62a",
-              "type": "reward.item",
-              "data": {
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "soulshardstow:ItemSoulShard 0 {Tier:0,KillCount:0}",
-                      "matchNBT": true
-                    }
-                  }
-                ]
-              }
-            }
-          ],
-          "prereqs": [
-            "79174c25-5f1e-4501-9bd8-2b3f216854a3"
-          ],
-          "repeatable": 1,
-          "infinite": true,
-          "tasksRequired": 1,
-          "allTasks": true,
-          "x": 727,
-          "y": 70,
-          "isVisible": true,
-          "displayAchievement": true,
-          "rewardsGiven": 1,
-          "allRewards": false
-        },
-        {
-          "timestamp": 0,
-          "uuid": "ec11d5a5-80a0-4367-8304-f3df5b41be0d",
-          "displayName": "Way of the Potato!",
-          "displayStack": "botania:tinyPotato",
-          "triggers": [
-            {
-              "conditions": [
-                {
-                  "uuid": "7aa24ea4-871d-4e6a-83a1-833796e22528",
-                  "type": "condition.ininventory",
-                  "data": {
-                    "filters": [
-                      {
-                        "type": "filter.item.itemStack",
-                        "data": {
-                          "stack": "minecraft:potato"
-                        }
-                      }
-                    ]
-                  }
-                },
-                {
-                  "uuid": "ea4c28bf-2e9e-4092-9e06-3abac17dcb11",
-                  "type": "condition.ininventory",
-                  "data": {
-                    "filters": [
-                      {
-                        "type": "filter.item.itemStack",
-                        "data": {
-                          "stack": "minecraft:baked_potato"
-                        }
-                      }
-                    ]
-                  }
-                },
-                {
-                  "uuid": "f836dd8a-4e0e-4146-a79f-f6691b903021",
-                  "type": "condition.ininventory",
-                  "data": {
-                    "filters": [
-                      {
-                        "type": "filter.item.itemStack",
-                        "data": {
-                          "stack": "minecraft:poisonous_potato"
-                        }
-                      }
-                    ]
-                  }
-                },
-                {
-                  "uuid": "53e9b341-9ef4-43af-b5f4-94753984209b",
-                  "type": "condition.ininventory",
-                  "data": {
-                    "filters": [
-                      {
-                        "type": "filter.item.itemStack",
-                        "data": {
-                          "stack": "botania:tinyPotato"
-                        }
-                      }
-                    ]
-                  }
-                },
-                {
-                  "uuid": "e00b6e76-8257-4cc3-9409-04093b15e781",
-                  "type": "condition.ininventory",
-                  "data": {
-                    "filters": [
-                      {
-                        "type": "filter.item.itemStack",
-                        "data": {
-                          "stack": "botania:cosmetic 30"
-                        }
-                      }
-                    ]
-                  }
-                },
-                {
-                  "uuid": "4c1514f3-6721-4fa8-9210-68e43ddefd9e",
-                  "type": "condition.points",
-                  "data": {
-                    "variable": "botania",
-                    "amount": 2.0
-                  }
-                }
-              ],
-              "uuid": "6eed5116-f032-4ff8-bdf8-b14687f5d4df",
-              "type": "trigger.chat",
-              "data": {
-                "toMatch": "Way of the Potato!"
-              }
-            }
-          ],
-          "rewards": [
-            {
-              "uuid": "09a08ad6-0852-4e45-9dd5-d428573a3f7c",
-              "type": "reward.spawnItem",
-              "data": {
-                "locations": [
-                  {
-                    "type": "filter.location.playerPos",
-                    "data": {
-                      "randomX": 0,
-                      "randomZ": 0
-                    }
-                  }
-                ],
-                "stackSizeMax": 128,
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "minecraft:potato"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "uuid": "051dff97-eaa1-4abd-a43d-991475c406e7",
-              "type": "reward.spawnItem",
-              "data": {
-                "locations": [],
-                "stackSizeMax": 128,
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "minecraft:potato"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "minecraft:poisonous_potato"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "uuid": "76fb90a9-4580-411f-a2c7-3a3b4600675f",
-              "type": "reward.spawnItem",
-              "data": {
-                "locations": [],
-                "stackSizeMax": 128,
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "minecraft:potato"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "minecraft:baked_potato"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "minecraft:poisonous_potato"
-                    }
-                  }
-                ]
-              }
-            }
-          ],
-          "prereqs": [
-            "5fcfb71d-3d9d-43c0-a415-5eda90e4ac7e",
-            "09a16bc9-3dab-4a33-ba10-5e27ddd39aee"
-          ],
-          "repeatable": 1,
-          "infinite": false,
-          "tasksRequired": 1,
-          "allTasks": true,
-          "x": 423,
-          "y": 154,
-          "isVisible": true,
-          "displayAchievement": true,
-          "rewardsGiven": 1,
-          "allRewards": true
-        },
-        {
-          "timestamp": 0,
-          "uuid": "15e8ba0b-45e0-40d2-bcee-bffe6cea796f",
-          "displayName": "Vital Nutrients",
-          "displayStack": "minecraft:baked_potato",
-          "triggers": [
-            {
-              "uuid": "6ef374d1-4645-4a6a-a8f0-aa884964da72",
-              "type": "trigger.onEaten",
-              "data": {
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "minecraft:poisonous_potato"
-                    }
-                  }
-                ]
-              }
-            }
-          ],
-          "rewards": [
-            {
-              "uuid": "b980277f-9eda-436c-b93a-106738b60ed2",
-              "type": "reward.potioneffect",
-              "data": {
-                "targets": [],
-                "filters": [
-                  {
-                    "type": "filter.potioneffect.potioneffect",
-                    "data": {
-                      "effectID": 87
-                    }
-                  }
-                ]
-              }
-            }
-          ],
-          "prereqs": [
-            "ec11d5a5-80a0-4367-8304-f3df5b41be0d"
-          ],
-          "repeatable": 1,
-          "infinite": false,
-          "tasksRequired": 1,
-          "allTasks": true,
-          "x": 525,
-          "y": 154,
-          "isVisible": true,
-          "displayAchievement": true,
-          "rewardsGiven": 1,
-          "allRewards": true
-        },
-        {
-          "timestamp": 0,
-          "uuid": "e5a3e778-1fba-4985-815f-4b8832dafd09",
-          "displayName": "Demonic Processing",
-          "displayStack": "bloodmagic:BlockDemonPylon",
-          "triggers": [
-            {
-              "conditions": [
-                {
-                  "uuid": "e448feab-d88b-4c4f-bcbd-31b922158b88",
-                  "type": "condition.points",
-                  "data": {
-                    "variable": "bloodmagic",
-                    "amount": 2.0
-                  }
-                }
-              ],
-              "uuid": "50f2c16d-73bf-41e3-b411-cc07868064bc",
-              "type": "trigger.clickBlock",
-              "data": {
-                "filters": [
-                  {
-                    "type": "filter.block.blockStack",
-                    "data": {
-                      "stack": "bloodmagic:BlockDemonCrucible"
-                    }
-                  }
-                ]
-              }
-            }
-          ],
-          "rewards": [
-            {
-              "uuid": "1b7043ab-fcee-4fc9-8adf-f1d118c62f43",
-              "type": "reward.item",
-              "data": {
-                "stackSizeMax": 8,
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "bloodmagic:BlockDemonPylon"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "uuid": "55bfeca1-88af-4dfc-8b65-f4a081fc2729",
-              "type": "reward.item",
-              "data": {
-                "stackSizeMax": 2,
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "bloodmagic:BlockDemonCrystallizer"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "uuid": "fd99a07a-c07b-4e8d-96e1-0da3a3a99397",
-              "type": "reward.item",
-              "data": {
-                "stackSizeMax": 8,
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "bloodmagic:ItemSoulGem 0 {souls:64.0d,demonWillType:\"DEFAULT\"}",
-                      "matchNBT": true
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "uuid": "2a47ec23-bc9f-4efc-b8a0-8c28e8b57df0",
-              "type": "reward.item",
-              "data": {
-                "stackSizeMax": 6,
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "bloodmagic:ItemSoulGem 1 {souls:256.0d,demonWillType:\"DEFAULT\"}",
-                      "matchNBT": true
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "uuid": "026943cb-359e-4922-8f31-874144d93399",
-              "type": "reward.item",
-              "data": {
-                "stackSizeMax": 4,
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "bloodmagic:ItemSoulGem 3 {souls:4096.0d,demonWillType:\"DEFAULT\"}",
-                      "matchNBT": true
-                    }
-                  }
-                ]
-              }
-            }
-          ],
-          "prereqs": [
-            "c8d8a5aa-2e8c-4414-84cc-5c8cb0905680",
-            "dd2a56f2-d66c-4420-9501-c1bcd4266ddb"
-          ],
-          "repeatable": 1,
-          "infinite": false,
-          "tasksRequired": 1,
-          "allTasks": true,
-          "x": 399,
-          "y": 99,
-          "isVisible": true,
-          "displayAchievement": true,
-          "rewardsGiven": 3,
-          "allRewards": false
-        },
-        {
-          "timestamp": 0,
-          "uuid": "a0e7669b-7d69-447e-9277-91afd8e6fe53",
-          "displayName": "Carrying Sticks",
-          "displayStack": "minecraft:stick",
-          "triggers": [
-            {
-              "conditions": [
-                {
-                  "uuid": "6dc45e7e-fbcc-45a4-8217-f2aadd4dc8ab",
-                  "type": "condition.points",
-                  "data": {
-                    "variable": "thaumcraft",
-                    "amount": 2.0
-                  }
-                }
-              ],
-              "uuid": "e3c7daaa-6c69-4380-ac6d-11f4e74bdddf",
-              "type": "trigger.kill",
-              "data": {
-                "entities": [
-                  {
-                    "type": "filter.entity.entityName",
-                    "data": {
-                      "entityName": "thaumcraft.cultistcleric"
-                    }
-                  },
-                  {
-                    "type": "filter.entity.entityName",
-                    "data": {
-                      "entityName": "thaumcraft.eldritchguardian"
-                    }
-                  }
-                ]
-              }
-            }
-          ],
-          "rewards": [
-            {
-              "uuid": "abec57ae-c8f7-42bb-a4d2-bdf50af97943",
-              "type": "reward.item",
-              "data": {
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumcraft:wand_rod 8"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumcraft:wand_rod 9"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumcraft:wand_rod 10"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumcraft:wand_rod 11"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumcraft:wand_rod 12"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumcraft:wand_rod 13"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumcraft:wand_rod 14"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumcraft:wand_rod 15"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "schoolsmagic:WandCores 7"
-                    }
-                  }
-                ]
-              }
-            }
-          ],
-          "prereqs": [
-            "860c7260-497d-466d-846e-be690730ce96",
-            "baad6401-a6c3-4714-89ba-dad1cbdd727a"
-          ],
-          "repeatable": 1,
-          "infinite": false,
-          "tasksRequired": 1,
-          "allTasks": true,
-          "x": 441,
-          "y": 209,
+          "x": 653,
+          "y": 139,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -30834,7 +29450,7 @@
           "infinite": false,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 1310,
+          "x": 1311,
           "y": 199,
           "isVisible": true,
           "displayAchievement": true,
@@ -32064,10 +30680,6 @@
                       "randomY": 12,
                       "randomZ": 12
                     }
-                  },
-                  {
-                    "type": "filter.location.playerLook",
-                    "data": {}
                   }
                 ],
                 "entities": [
@@ -32112,10 +30724,6 @@
                 "locations": [
                   {
                     "type": "filter.location.playerLook",
-                    "data": {}
-                  },
-                  {
-                    "type": "filter.location.playerPos",
                     "data": {}
                   }
                 ],
@@ -33594,6 +32202,10 @@
                     "data": {
                       "stack": "projecte:item.pe_dm_sword"
                     }
+                  },
+                  {
+                    "type": "filter.item.itemStack",
+                    "data": {}
                   }
                 ]
               }
@@ -36688,7 +35300,7 @@
               }
             },
             {
-              "uuid": "6ff3ceaf-c35d-4803-b8d5-d69169560cc5",
+              "uuid": "ea565d09-c71f-497e-810e-7aab015341c7",
               "type": "reward.entity",
               "data": {
                 "locations": [
@@ -36697,6 +35309,21 @@
                     "data": {}
                   }
                 ],
+                "entities": [
+                  {
+                    "type": "filter.entity.entityName",
+                    "data": {
+                      "entityName": "*reaper*"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "uuid": "6ff3ceaf-c35d-4803-b8d5-d69169560cc5",
+              "type": "reward.entity",
+              "data": {
+                "locations": [],
                 "entities": [
                   {
                     "type": "filter.entity.entityName",
@@ -37115,8 +35742,8 @@
           "infinite": true,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 1141,
-          "y": 174,
+          "x": 1151,
+          "y": 194,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 1,
@@ -37321,18 +35948,6 @@
                     "data": {
                       "stack": "thaumcraft:focus_pech"
                     }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumcraft:loot_bag 1"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumicbases:campfire"
-                    }
                   }
                 ]
               }
@@ -37373,98 +35988,6 @@
                     "data": {
                       "stack": "schoolsmagic:WandCaps 0"
                     }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumcraft:shard 7"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "minecraft:fireworks"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "uuid": "e75c68d2-f7ac-4a9a-9b5d-c915563a675a",
-              "type": "reward.item",
-              "data": {
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumcraft:loot_bag 0"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "uuid": "a3c2b893-20a1-4d0a-b205-f8293fb7b15c",
-              "type": "reward.item",
-              "data": {
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "minecraft:sapling 0",
-                      "matchDamage": false
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "abyssalcraft:dltsapling"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumcraft:sapling 0",
-                      "matchDamage": false
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "evilcraft:undeadSapling 0"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "uuid": "e8ab59e8-bad2-4ff6-9925-f9f3c8ac59d4",
-              "type": "reward.entity",
-              "data": {
-                "locations": [
-                  {
-                    "type": "filter.location.playerPos",
-                    "data": {}
-                  }
-                ],
-                "entities": [
-                  {
-                    "type": "filter.entity.entityName",
-                    "data": {
-                      "entityName": "grimoireofgaia.Witch"
-                    }
-                  },
-                  {
-                    "type": "filter.entity.entityName",
-                    "data": {
-                      "entityName": "grimoireofgaia.valkyrie"
-                    }
-                  },
-                  {
-                    "type": "filter.entity.entityName",
-                    "data": {
-                      "entityName": "grimoireofgaia.dullahan"
-                    }
                   }
                 ]
               }
@@ -37474,234 +35997,11 @@
           "infinite": true,
           "tasksRequired": 1,
           "allTasks": true,
-          "x": 1141,
-          "y": 201,
+          "x": 1078,
+          "y": 194,
           "isVisible": true,
           "displayAchievement": true,
           "rewardsGiven": 2,
-          "allRewards": false
-        },
-        {
-          "timestamp": 0,
-          "uuid": "d55a0be7-4422-4b75-b19b-9fd61a0f3a53",
-          "displayName": "Fae Courts",
-          "displayStack": "minecraft:stone 0",
-          "triggers": [
-            {
-              "uuid": "324fd23b-01f4-4c7b-a2c4-9ed95bf35fad",
-              "type": "trigger.kill",
-              "data": {
-                "entities": [
-                  {
-                    "type": "filter.entity.entityName",
-                    "data": {
-                      "entityName": "grimoireofgaia.Witch"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "uuid": "e87b4c63-2649-4e79-a760-1570e8052045",
-              "type": "trigger.kill",
-              "data": {
-                "entities": [
-                  {
-                    "type": "filter.entity.entityName",
-                    "data": {
-                      "entityName": "grimoireofgaia.yuki-onna"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "uuid": "53385dc4-1da6-4e47-a84a-421f102670d7",
-              "type": "trigger.kill",
-              "data": {
-                "entities": []
-              }
-            }
-          ],
-          "rewards": [
-            {
-              "uuid": "6321be59-e14c-4a49-8e77-7a0896a5e3d3",
-              "type": "reward.points",
-              "data": {
-                "variable": "dominion"
-              }
-            }
-          ],
-          "prereqs": [
-            "c33cf8c6-39cb-4144-93de-dc47f15e556c",
-            "126cd1a4-be69-4864-bc85-7342f1bb97ce",
-            "fc47151c-a8ff-4708-bbad-d4f16e156a97"
-          ],
-          "repeatable": 1,
-          "infinite": false,
-          "tasksRequired": 1,
-          "allTasks": true,
-          "x": 1232,
-          "y": 174,
-          "isVisible": true,
-          "displayAchievement": true,
-          "rewardsGiven": 1,
-          "allRewards": true
-        },
-        {
-          "timestamp": 0,
-          "uuid": "126cd1a4-be69-4864-bc85-7342f1bb97ce",
-          "displayName": "Witch Hunting",
-          "displayStack": "evilcraft:broom",
-          "triggers": [
-            {
-              "uuid": "054fbd4e-f761-4314-ba14-f0e92822a8c0",
-              "type": "trigger.kill",
-              "data": {
-                "entities": [
-                  {
-                    "type": "filter.entity.entityName",
-                    "data": {
-                      "entityName": "Witch"
-                    }
-                  },
-                  {
-                    "type": "filter.entity.entityName",
-                    "data": {
-                      "entityName": "enderzoo.WitherWitch"
-                    }
-                  }
-                ],
-                "amount": 13
-              }
-            }
-          ],
-          "rewards": [
-            {
-              "uuid": "50eba355-402e-45ab-b144-ee1b8f7b397f",
-              "type": "reward.item",
-              "data": {
-                "filters": [
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "evilcraft:broom"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "nep:mixing_cauldron"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "xreliquary:apothecary_cauldron"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "minecraft:cauldron"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "botania:pestleAndMortar"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "xreliquary:apothecary_mortar"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumicbases:mortar 0"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "nep:granite_mortar_and_pestle"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "nep:diamond_mortar_and_pestle"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "xreliquary:witch_hat"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "talismans%202:ring_talisman 3"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumcraft:baubles 10"
-                    }
-                  },
-                  {
-                    "type": "filter.item.itemStack",
-                    "data": {
-                      "stack": "thaumcraft:baubles 3 {color:16777086}",
-                      "matchDamage": false
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "uuid": "c548209e-ab32-438d-b2d9-cbfcb3f97d3e",
-              "type": "reward.entity",
-              "data": {
-                "locations": [],
-                "entities": [
-                  {
-                    "type": "filter.entity.entityName",
-                    "data": {
-                      "entityName": "Witch"
-                    }
-                  },
-                  {
-                    "type": "filter.entity.entityName",
-                    "data": {
-                      "entityName": "enderzoo.WitherWitch"
-                    }
-                  },
-                  {
-                    "type": "filter.entity.entityName",
-                    "data": {
-                      "entityName": "grimoireofgaia.witch"
-                    }
-                  }
-                ],
-                "spawnNumberMax": 7
-              }
-            }
-          ],
-          "repeatable": 1,
-          "infinite": true,
-          "tasksRequired": 1,
-          "allTasks": true,
-          "x": 1141,
-          "y": 147,
-          "isVisible": true,
-          "displayAchievement": true,
-          "rewardsGiven": 1,
           "allRewards": false
         }
       ]
